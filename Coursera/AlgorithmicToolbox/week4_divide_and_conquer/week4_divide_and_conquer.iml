@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1_binary_search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_majority_element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_improving_quicksort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_number_of_inversions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_organizing_a_lottery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_closest_points" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>

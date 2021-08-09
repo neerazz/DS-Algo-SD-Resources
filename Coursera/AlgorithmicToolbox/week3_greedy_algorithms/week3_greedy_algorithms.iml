@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1_money_change" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_maximum_value_of_the_loot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_car_fueling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_maximum_advertisement_revenue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_collecting_signatures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_maximum_number_of_prizes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_maximum_salary" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>

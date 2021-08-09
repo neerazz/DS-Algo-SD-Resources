@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1_fibonacci_number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_last_digit_of_fibonacci_number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_greatest_common_divisor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_least_common_multiple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_fibonacci_number_again" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_last_digit_of_the_sum_of_fibonacci_numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_last_digit_of_the_sum_of_fibonacci_numbers_again" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>
